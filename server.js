@@ -15,7 +15,6 @@ app.get('/ui/style.css', function (req, res) {
 
 app.get('/nv',function(req,res){
     res.send('i am nv');
-    
 });
 
 app.get('/ui/madi.png', function (req, res) {
